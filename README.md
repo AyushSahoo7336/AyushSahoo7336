@@ -157,9 +157,6 @@ AI-powered, game-based screening for Dyslexia, Dyscalculia & ADHD.
 
 ---
 
-<br/>
-
-
 ## 📫 Let's Connect
 
 <div align="center">
