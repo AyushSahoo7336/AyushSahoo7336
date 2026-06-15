@@ -11,10 +11,10 @@
 <br/>
 
 <!-- Badges Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-sahoo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-sahoo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sahoo-63515b186)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushSahoo7336)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush733695@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AyushSahoo1)
 
 <br/>
 
@@ -99,8 +99,8 @@ A production-grade video conferencing platform built from scratch — no Zoom SD
 - 🔐 JWT auth + host-controlled waiting rooms
 - 📊 Real-time network quality monitoring via WebRTC stats API
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)]([https://github.com/AyushSahoo7336/VidMeet])
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)]([https://github.com/ayush-sahoo](https://vidmeet-chi.vercel.app))
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AyushSahoo7336/VidMeet)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://vidmeet-chi.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -115,8 +115,8 @@ Built a Git-like version control system — CLI included.
 - 📈 Contribution **heatmap** + commit history visualization
 - 🔒 Public/private repo visibility with JWT-secured backend
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)]([https://github.com/ayush-sahoo](https://github.com/AyushSahoo7336/GitVerse))
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://github.com/ayush-sahoo)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AyushSahoo7336/GitVerse)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://gitverse-rust.vercel.app)
 
 </td>
 </tr>
@@ -133,8 +133,8 @@ Simulated stock trading platform with algorithmic order execution.
 - 📡 Live prices streamed via **WebSocket** at 10-second intervals (Yahoo Finance)
 - 🤖 **Gemini AI**-powered stock analysis for smarter trade decisions
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayush-sahoo)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://github.com/ayush-sahoo)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AyushSahoo7336/StockFlow)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://www.stock-flow.live)
 
 <td width="50%" valign="top">
 
@@ -167,16 +167,15 @@ I'm open to **internships**, **open-source collaborations**, and **freelance pro
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-sahoo)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sahoo-63515b186)
 [![Gmail](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush733695@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-sahoo)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushSahoo7336)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=ayush-sahoo&label=Profile+Views&color=a855f7&style=flat-square" />
 
-<br/><br/>
-
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" width="100%" />
 
 </div>
