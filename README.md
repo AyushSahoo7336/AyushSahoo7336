@@ -21,23 +21,22 @@
 </div>
 
 ---
-
- 
 ## `> whoami`
- 
-```javascript
-const ayush = {
-  role:       "Aspiring Full-Stack + AI Engineer",
-  university: "Sir M. Visvesvaraya Institute of Technology",
-  degree:     "B.E. Information Science",
-  cgpa:       "8.26 (Upto 5th Sem)",
-  gradYear:   2027,
-  location:   "Bengaluru, Karnataka 🇮🇳",
-  focus:      ["Real-time Systems", "WebRTC", "AI Integrations", "DSA"],
-  currently:  "Building projects at the intersection of web & AI",
+
+```typescript
+const ayush: Developer = {
+  name:       "Ayush Sahoo",
+  role:       "Full-Stack + AI Engineer (in progress)",
+  university: "Sir M. Visvesvaraya Institute of Technology, Bengaluru",
+  degree:     "B.E. — Information Science & Engineering",
+  cgpa:       "8.26 / 10.0  (up to 5th Sem)",
+  gradYear:   2027,
+  dsa:        "330+ LeetCode problems solved",
+  interests:  ["Real-Time Systems", "WebRTC", "AI Integrations", "DSA"],
+  currentlyBuilding: "AI system for early screening of learning disabilities ",
 };
 ```
- 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -138,17 +137,19 @@ Simulated stock trading platform with algorithmic order execution.
 
 <td width="50%" valign="top">
 
-### 🧠 Current AI Research
-> Multi-Modal AI · CNN-LSTM · WebGazer.js · MERN
+### 🧠 Learning Disability Screening System *(Major B.E. Project)*
+> CNN-LSTM · WebGazer.js · React · Node.js 
 
-Currently engineering an **Intelligent System for Early Screening of Learning Disabilities** in preschool children as my major B.E. project.
+> *"Building technology that creates real-world impact."*
 
-- 🎮 Developing a game-based React/Node.js platform to non-invasively screen for Dyslexia, Dyscalculia, and ADHD.
-- 👁️ Capturing real-time multimodal data, including behavioral metrics and eye-gaze coordinates via **WebGazer.js**.
-- 🧠 Implementing a hybrid **CNN-LSTM deep learning architecture** to analyze spatial gaze heatmaps and temporal attention drift.
-- 📊 Generating predictive dashboards with confidence scores to democratize access to early clinical intervention.
+AI-powered, game-based screening for Dyslexia, Dyscalculia & ADHD.
 
-> *"Building technology that makes a real-world impact."*
+- 🎮 Non-invasive React/Node.js game-based screening platform
+- 👁️ Real-time eye-gaze capture via **WebGazer.js**
+- 🧠 Hybrid **CNN-LSTM** model for spatial + temporal attention analysis
+- 📊 Confidence-score dashboards to democratize clinical intervention
+
+*[ In active development ]*
 
 </td>
 </tr>
@@ -162,10 +163,6 @@ Currently engineering an **Intelligent System for Early Screening of Learning Di
 ## 📫 Let's Connect
 
 <div align="center">
-
-I'm open to **internships**, **open-source collaborations**, and **freelance projects** in Full-Stack or AI engineering.
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sahoo-63515b186)
 [![Gmail](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush733695@gmail.com)
