@@ -165,12 +165,5 @@ AI-powered, game-based screening for Dyslexia, Dyscalculia & ADHD.
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sahoo-63515b186)
 [![Gmail](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush733695@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushSahoo7336)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ayush-sahoo&label=Profile+Views&color=a855f7&style=flat-square" />
-
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" width="100%" />
-
 </div>
