@@ -30,7 +30,7 @@ const ayush: Developer = {
   role:       "Full-Stack + AI Engineer (in progress)",
   university: "Sir M. Visvesvaraya Institute of Technology, Bengaluru",
   degree:     "B.E. — Information Science & Engineering",
-  cgpa:       "8.34 / 10.0  (up to 6th Sem)",
+  cgpa:       "8.38 / 10.0  (up to 6th Sem)",
   gradYear:   2027,
   dsa:        "330+ LeetCode problems solved",
   interests:  ["Real-Time Systems", "WebRTC", "AI Integrations", "DSA"],
