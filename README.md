@@ -32,7 +32,7 @@ const ayush: Developer = {
   degree:     "B.E. — Information Science & Engineering",
   cgpa:       "8.38 / 10.0  (up to 6th Sem)",
   gradYear:   2027,
-  dsa:        "330+ LeetCode problems solved",
+  dsa:        "350+ LeetCode problems solved",
   interests:  ["Real-Time Systems", "WebRTC", "AI Integrations", "DSA"],
   currentlyBuilding: "AI system for early screening of learning disabilities ",
 };
